@@ -1,0 +1,950 @@
+[19-Jun-2023 16:29:49 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:29:49 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[HOME画面]]]]]]]]]]]]]
+[19-Jun-2023 16:29:49 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:29:49 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:29:49 Asia/Tokyo] デバッグ：セッションID：6rkqae8di5s1969311mb3004qn
+[19-Jun-2023 16:29:49 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Jun-2023 16:29:49 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687159789
+[19-Jun-2023 16:29:55 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:29:55 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[AJAX画面]]]]]]]]]]]]]
+[19-Jun-2023 16:29:55 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:29:55 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:29:55 Asia/Tokyo] デバッグ：セッションID：4cerovh5m4j4f0m0q59nt5hson
+[19-Jun-2023 16:29:55 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[19-Jun-2023 16:29:55 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687159795
+[19-Jun-2023 16:29:55 Asia/Tokyo] デバッグ：POST：Array
+(
+    [username] => sfd
+)
+
+[19-Jun-2023 16:29:55 Asia/Tokyo] デバッグ：$userArray：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+        )
+
+)
+
+[19-Jun-2023 16:29:55 Asia/Tokyo] デバッグ：$result：
+[19-Jun-2023 16:29:55 Asia/Tokyo] デバッグ：セッションなし
+[19-Jun-2023 16:30:17 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:30:17 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[AJAX画面]]]]]]]]]]]]]
+[19-Jun-2023 16:30:17 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:30:17 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:30:17 Asia/Tokyo] デバッグ：セッションID：aaau2fk58t2q02d4v9b7kk2u19
+[19-Jun-2023 16:30:17 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+)
+
+[19-Jun-2023 16:30:17 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687159817
+[19-Jun-2023 16:30:17 Asia/Tokyo] デバッグ：POST：Array
+(
+    [game_over] => true
+)
+
+[19-Jun-2023 16:30:17 Asia/Tokyo] デバッグ：$userArray：Array
+(
+    [] => Array
+        (
+            [username] => 
+        )
+
+)
+
+[19-Jun-2023 16:30:17 Asia/Tokyo] デバッグ：$result：
+[19-Jun-2023 16:30:17 Asia/Tokyo] デバッグ：セッションなし
+[19-Jun-2023 16:30:29 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:30:29 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[HOME画面]]]]]]]]]]]]]
+[19-Jun-2023 16:30:29 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:30:29 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:30:29 Asia/Tokyo] デバッグ：セッションID：c5lsmihhoh23vfvaglaup8q82t
+[19-Jun-2023 16:30:29 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+)
+
+[19-Jun-2023 16:30:29 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687159829
+[19-Jun-2023 16:31:49 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:31:49 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[HOME画面]]]]]]]]]]]]]
+[19-Jun-2023 16:31:49 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:31:49 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:31:49 Asia/Tokyo] デバッグ：セッションID：sb48aausfg6es7ndteac94jnhe
+[19-Jun-2023 16:31:49 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+)
+
+[19-Jun-2023 16:31:49 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687159909
+[19-Jun-2023 16:31:52 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:31:52 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[AJAX画面]]]]]]]]]]]]]
+[19-Jun-2023 16:31:52 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:31:52 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:31:52 Asia/Tokyo] デバッグ：セッションID：94o2du56aab0qns2d7r0nrccih
+[19-Jun-2023 16:31:52 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+)
+
+[19-Jun-2023 16:31:52 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687159912
+[19-Jun-2023 16:31:52 Asia/Tokyo] デバッグ：POST：Array
+(
+    [username] => gadsgrhag
+)
+
+[19-Jun-2023 16:31:52 Asia/Tokyo] デバッグ：$userArray：Array
+(
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+        )
+
+)
+
+[19-Jun-2023 16:31:52 Asia/Tokyo] デバッグ：$result：
+[19-Jun-2023 16:31:52 Asia/Tokyo] デバッグ：セッションなし
+[19-Jun-2023 16:32:02 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:32:02 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[AJAX画面]]]]]]]]]]]]]
+[19-Jun-2023 16:32:02 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:32:02 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:32:02 Asia/Tokyo] デバッグ：セッションID：urm1l65nm2g5ontibt2b079afl
+[19-Jun-2023 16:32:02 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+            [getPointMax] => 0
+        )
+
+)
+
+[19-Jun-2023 16:32:02 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687159922
+[19-Jun-2023 16:32:02 Asia/Tokyo] デバッグ：POST：Array
+(
+    [username] => gadsgrhag
+    [getPointMax] => 200
+)
+
+[19-Jun-2023 16:32:02 Asia/Tokyo] デバッグ：$userArray：Array
+(
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+            [getPointMax] => 200
+        )
+
+)
+
+[19-Jun-2023 16:32:02 Asia/Tokyo] デバッグ：$result：1
+[19-Jun-2023 16:32:02 Asia/Tokyo] デバッグ：セッションにあり、POST最大スコアあり
+[19-Jun-2023 16:32:28 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:32:28 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[AJAX画面]]]]]]]]]]]]]
+[19-Jun-2023 16:32:28 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:32:28 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:32:28 Asia/Tokyo] デバッグ：セッションID：hbpgpcn93b1ul448g3u141tp7c
+[19-Jun-2023 16:32:28 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+            [getPointMax] => 200
+        )
+
+)
+
+[19-Jun-2023 16:32:28 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687159948
+[19-Jun-2023 16:32:28 Asia/Tokyo] デバッグ：POST：Array
+(
+    [game_over] => true
+)
+
+[19-Jun-2023 16:32:28 Asia/Tokyo] デバッグ：$userArray：Array
+(
+    [] => Array
+        (
+            [username] => 
+        )
+
+)
+
+[19-Jun-2023 16:32:28 Asia/Tokyo] デバッグ：$result：1
+[19-Jun-2023 16:32:28 Asia/Tokyo] デバッグ：USERセッションあり、最大スコアセッションなし、POST最大スコアなし
+[19-Jun-2023 16:32:30 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:32:30 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[HOME画面]]]]]]]]]]]]]
+[19-Jun-2023 16:32:30 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:32:30 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:32:30 Asia/Tokyo] デバッグ：セッションID：80qa5r79hjgn74jqsrc4e37498
+[19-Jun-2023 16:32:30 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+            [getPointMax] => 200
+        )
+
+)
+
+[19-Jun-2023 16:32:30 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687159950
+[19-Jun-2023 16:32:39 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:32:39 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[AJAX画面]]]]]]]]]]]]]
+[19-Jun-2023 16:32:39 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:32:39 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:32:39 Asia/Tokyo] デバッグ：セッションID：2cb6gkuikfiitc37dphfc5nktb
+[19-Jun-2023 16:32:39 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+            [getPointMax] => 200
+        )
+
+)
+
+[19-Jun-2023 16:32:39 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687159959
+[19-Jun-2023 16:32:39 Asia/Tokyo] デバッグ：POST：Array
+(
+    [username] => amuamu
+)
+
+[19-Jun-2023 16:32:39 Asia/Tokyo] デバッグ：$userArray：Array
+(
+    [amuamu] => Array
+        (
+            [username] => amuamu
+        )
+
+)
+
+[19-Jun-2023 16:32:39 Asia/Tokyo] デバッグ：$result：
+[19-Jun-2023 16:32:39 Asia/Tokyo] デバッグ：セッションなし
+[19-Jun-2023 16:32:47 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:32:47 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[HOME画面]]]]]]]]]]]]]
+[19-Jun-2023 16:32:47 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:32:47 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:32:47 Asia/Tokyo] デバッグ：セッションID：qctpndnvbotrdt7ovb9eftr2qv
+[19-Jun-2023 16:32:47 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+            [getPointMax] => 200
+        )
+
+    [amuamu] => Array
+        (
+            [username] => amuamu
+            [getPointMax] => 0
+        )
+
+)
+
+[19-Jun-2023 16:32:47 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687159967
+[19-Jun-2023 16:32:48 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:32:48 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[HOME画面]]]]]]]]]]]]]
+[19-Jun-2023 16:32:48 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:32:48 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:32:48 Asia/Tokyo] デバッグ：セッションID：s6frpftcj85cckn6phfc11g4cf
+[19-Jun-2023 16:32:48 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+            [getPointMax] => 200
+        )
+
+    [amuamu] => Array
+        (
+            [username] => amuamu
+            [getPointMax] => 0
+        )
+
+)
+
+[19-Jun-2023 16:32:48 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687159968
+[19-Jun-2023 16:32:49 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:32:49 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[HOME画面]]]]]]]]]]]]]
+[19-Jun-2023 16:32:49 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:32:49 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:32:49 Asia/Tokyo] デバッグ：セッションID：u5hv225giq01005nu80qionkl1
+[19-Jun-2023 16:32:49 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+            [getPointMax] => 200
+        )
+
+    [amuamu] => Array
+        (
+            [username] => amuamu
+            [getPointMax] => 0
+        )
+
+)
+
+[19-Jun-2023 16:32:49 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687159969
+[19-Jun-2023 16:32:49 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:32:49 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[HOME画面]]]]]]]]]]]]]
+[19-Jun-2023 16:32:49 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:32:49 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:32:49 Asia/Tokyo] デバッグ：セッションID：lnhnqc8v75l3jilbbbhjal6p36
+[19-Jun-2023 16:32:49 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+            [getPointMax] => 200
+        )
+
+    [amuamu] => Array
+        (
+            [username] => amuamu
+            [getPointMax] => 0
+        )
+
+)
+
+[19-Jun-2023 16:32:49 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687159969
+[19-Jun-2023 16:32:50 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:32:50 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[HOME画面]]]]]]]]]]]]]
+[19-Jun-2023 16:32:50 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:32:50 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:32:50 Asia/Tokyo] デバッグ：セッションID：q48hf8vgsumevlpdkrpf7v9veu
+[19-Jun-2023 16:32:50 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+            [getPointMax] => 200
+        )
+
+    [amuamu] => Array
+        (
+            [username] => amuamu
+            [getPointMax] => 0
+        )
+
+)
+
+[19-Jun-2023 16:32:50 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687159970
+[19-Jun-2023 16:32:51 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:32:51 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[HOME画面]]]]]]]]]]]]]
+[19-Jun-2023 16:32:51 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:32:51 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:32:51 Asia/Tokyo] デバッグ：セッションID：01osedlqlobaqfh03kr60g3ppc
+[19-Jun-2023 16:32:51 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+            [getPointMax] => 200
+        )
+
+    [amuamu] => Array
+        (
+            [username] => amuamu
+            [getPointMax] => 0
+        )
+
+)
+
+[19-Jun-2023 16:32:51 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687159971
+[19-Jun-2023 16:34:35 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:34:35 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[AJAX画面]]]]]]]]]]]]]
+[19-Jun-2023 16:34:35 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:34:35 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:34:35 Asia/Tokyo] デバッグ：セッションID：2dn3dd71asf39m9t6ubscsjn05
+[19-Jun-2023 16:34:35 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+            [getPointMax] => 200
+        )
+
+    [amuamu] => Array
+        (
+            [username] => amuamu
+            [getPointMax] => 0
+        )
+
+)
+
+[19-Jun-2023 16:34:35 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687160075
+[19-Jun-2023 16:34:35 Asia/Tokyo] デバッグ：POST：Array
+(
+    [username] => amuamu
+)
+
+[19-Jun-2023 16:34:35 Asia/Tokyo] デバッグ：$userArray：Array
+(
+    [amuamu] => Array
+        (
+            [username] => amuamu
+        )
+
+)
+
+[19-Jun-2023 16:34:35 Asia/Tokyo] デバッグ：$result：1
+[19-Jun-2023 16:34:35 Asia/Tokyo] デバッグ：USERセッションあり、最大スコアセッションなし、POST最大スコアなし
+[19-Jun-2023 16:34:52 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:34:52 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[AJAX画面]]]]]]]]]]]]]
+[19-Jun-2023 16:34:52 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:34:52 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:34:52 Asia/Tokyo] デバッグ：セッションID：j9tjt7uatoqp74r3h8dh236ltc
+[19-Jun-2023 16:34:52 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+            [getPointMax] => 200
+        )
+
+    [amuamu] => Array
+        (
+            [username] => amuamu
+            [getPointMax] => 0
+        )
+
+)
+
+[19-Jun-2023 16:34:52 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687160092
+[19-Jun-2023 16:34:52 Asia/Tokyo] デバッグ：POST：Array
+(
+    [username] => amuamu
+    [getPointMax] => 200
+)
+
+[19-Jun-2023 16:34:52 Asia/Tokyo] デバッグ：$userArray：Array
+(
+    [amuamu] => Array
+        (
+            [username] => amuamu
+            [getPointMax] => 200
+        )
+
+)
+
+[19-Jun-2023 16:34:52 Asia/Tokyo] デバッグ：$result：1
+[19-Jun-2023 16:34:52 Asia/Tokyo] デバッグ：セッションにあり、POST最大スコアあり
+[19-Jun-2023 16:35:15 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:35:15 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[AJAX画面]]]]]]]]]]]]]
+[19-Jun-2023 16:35:15 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:35:15 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:35:15 Asia/Tokyo] デバッグ：セッションID：ppe7o2f7cauevnfcd6pigjaoen
+[19-Jun-2023 16:35:15 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+            [getPointMax] => 200
+        )
+
+    [amuamu] => Array
+        (
+            [username] => amuamu
+            [getPointMax] => 200
+        )
+
+)
+
+[19-Jun-2023 16:35:15 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687160115
+[19-Jun-2023 16:35:15 Asia/Tokyo] デバッグ：POST：Array
+(
+    [game_over] => true
+)
+
+[19-Jun-2023 16:35:15 Asia/Tokyo] デバッグ：$userArray：Array
+(
+    [] => Array
+        (
+            [username] => 
+        )
+
+)
+
+[19-Jun-2023 16:35:15 Asia/Tokyo] デバッグ：$result：1
+[19-Jun-2023 16:35:15 Asia/Tokyo] デバッグ：USERセッションあり、最大スコアセッションなし、POST最大スコアなし
+[19-Jun-2023 16:35:17 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:35:17 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[HOME画面]]]]]]]]]]]]]
+[19-Jun-2023 16:35:17 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:35:17 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:35:17 Asia/Tokyo] デバッグ：セッションID：n2e0930ih5uelqiqsb3p00te5m
+[19-Jun-2023 16:35:17 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+            [getPointMax] => 200
+        )
+
+    [amuamu] => Array
+        (
+            [username] => amuamu
+            [getPointMax] => 200
+        )
+
+)
+
+[19-Jun-2023 16:35:17 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687160117
+[19-Jun-2023 16:35:23 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:35:23 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[AJAX画面]]]]]]]]]]]]]
+[19-Jun-2023 16:35:23 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:35:23 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:35:23 Asia/Tokyo] デバッグ：セッションID：e5sitmn8aoo4gkq1s2qg63vcig
+[19-Jun-2023 16:35:23 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+            [getPointMax] => 200
+        )
+
+    [amuamu] => Array
+        (
+            [username] => amuamu
+            [getPointMax] => 200
+        )
+
+)
+
+[19-Jun-2023 16:35:23 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687160123
+[19-Jun-2023 16:35:23 Asia/Tokyo] デバッグ：POST：Array
+(
+    [username] => amuamu
+)
+
+[19-Jun-2023 16:35:23 Asia/Tokyo] デバッグ：$userArray：Array
+(
+    [amuamu] => Array
+        (
+            [username] => amuamu
+        )
+
+)
+
+[19-Jun-2023 16:35:23 Asia/Tokyo] デバッグ：$result：1
+[19-Jun-2023 16:35:23 Asia/Tokyo] デバッグ：USERセッションあり、最大スコアセッションあり、POST最大スコアなし
+[19-Jun-2023 16:35:35 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:35:35 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[HOME画面]]]]]]]]]]]]]
+[19-Jun-2023 16:35:35 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:35:35 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:35:35 Asia/Tokyo] デバッグ：セッションID：0dhrgqjif03hd2r9cm4n4g07eo
+[19-Jun-2023 16:35:35 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+            [getPointMax] => 200
+        )
+
+    [amuamu] => Array
+        (
+            [username] => amuamu
+            [getPointMax] => 200
+        )
+
+)
+
+[19-Jun-2023 16:35:35 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687160135
+[19-Jun-2023 16:35:38 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:35:38 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[AJAX画面]]]]]]]]]]]]]
+[19-Jun-2023 16:35:38 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:35:38 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:35:38 Asia/Tokyo] デバッグ：セッションID：vt9ubab5k8vlv7244sfa59l8rt
+[19-Jun-2023 16:35:38 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+            [getPointMax] => 200
+        )
+
+    [amuamu] => Array
+        (
+            [username] => amuamu
+            [getPointMax] => 200
+        )
+
+)
+
+[19-Jun-2023 16:35:38 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687160138
+[19-Jun-2023 16:35:38 Asia/Tokyo] デバッグ：POST：Array
+(
+    [username] => gadsgrhag
+)
+
+[19-Jun-2023 16:35:38 Asia/Tokyo] デバッグ：$userArray：Array
+(
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+        )
+
+)
+
+[19-Jun-2023 16:35:38 Asia/Tokyo] デバッグ：$result：1
+[19-Jun-2023 16:35:38 Asia/Tokyo] デバッグ：USERセッションあり、最大スコアセッションあり、POST最大スコアなし
+[19-Jun-2023 16:35:44 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:35:44 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[HOME画面]]]]]]]]]]]]]
+[19-Jun-2023 16:35:44 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:35:44 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:35:44 Asia/Tokyo] デバッグ：セッションID：j63kdip2f7f4eilvkp97fq5itg
+[19-Jun-2023 16:35:44 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+            [getPointMax] => 200
+        )
+
+    [amuamu] => Array
+        (
+            [username] => amuamu
+            [getPointMax] => 200
+        )
+
+)
+
+[19-Jun-2023 16:35:44 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687160144
+[19-Jun-2023 16:35:46 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:35:46 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[AJAX画面]]]]]]]]]]]]]
+[19-Jun-2023 16:35:46 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[19-Jun-2023 16:35:46 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[19-Jun-2023 16:35:46 Asia/Tokyo] デバッグ：セッションID：jlc9h0c8kt1rqd0bk629g1orjf
+[19-Jun-2023 16:35:46 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [sfd] => Array
+        (
+            [username] => sfd
+            [getPointMax] => 0
+        )
+
+    [] => Array
+        (
+            [username] => 
+            [getPointMax] => 0
+        )
+
+    [gadsgrhag] => Array
+        (
+            [username] => gadsgrhag
+            [getPointMax] => 200
+        )
+
+    [amuamu] => Array
+        (
+            [username] => amuamu
+            [getPointMax] => 200
+        )
+
+)
+
+[19-Jun-2023 16:35:46 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687160146
+[19-Jun-2023 16:35:46 Asia/Tokyo] デバッグ：POST：Array
+(
+    [username] => amuamu
+)
+
+[19-Jun-2023 16:35:46 Asia/Tokyo] デバッグ：$userArray：Array
+(
+    [amuamu] => Array
+        (
+            [username] => amuamu
+        )
+
+)
+
+[19-Jun-2023 16:35:46 Asia/Tokyo] デバッグ：$result：1
+[19-Jun-2023 16:35:46 Asia/Tokyo] デバッグ：USERセッションあり、最大スコアセッションあり、POST最大スコアなし
+[20-Jun-2023 05:55:21 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[20-Jun-2023 05:55:21 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[HOME画面]]]]]]]]]]]]]
+[20-Jun-2023 05:55:21 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[20-Jun-2023 05:55:21 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[20-Jun-2023 05:55:21 Asia/Tokyo] デバッグ：セッションID：05fa61oip20im20n5695rq7e73
+[20-Jun-2023 05:55:21 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[20-Jun-2023 05:55:21 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687208121
+[20-Jun-2023 06:03:20 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[20-Jun-2023 06:03:20 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[HOME画面]]]]]]]]]]]]]
+[20-Jun-2023 06:03:20 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[20-Jun-2023 06:03:20 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[20-Jun-2023 06:03:20 Asia/Tokyo] デバッグ：セッションID：tldnuht0ibh9qdqaols8qelhir
+[20-Jun-2023 06:03:20 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[20-Jun-2023 06:03:20 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687208600
+[20-Jun-2023 06:03:24 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[20-Jun-2023 06:03:24 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[HOME画面]]]]]]]]]]]]]
+[20-Jun-2023 06:03:24 Asia/Tokyo] デバッグ：[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]
+[20-Jun-2023 06:03:24 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>> 画面処理開始
+[20-Jun-2023 06:03:24 Asia/Tokyo] デバッグ：セッションID：ni1ir175csa3s35fj2cl4e8600
+[20-Jun-2023 06:03:24 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[20-Jun-2023 06:03:24 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1687208604
